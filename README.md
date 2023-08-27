@@ -18,4 +18,4 @@ This repository contains code implementations and reports showcasing various ima
 
 If you find any issues or improvements, feel free to open an issue or submit a pull request. Feel free to modify the code, experiment with different images, or adjust parameters to see how the techniques behave under various conditions. Contributions are welcomed!
 
-Happy image processing!
+Happy image processing! 
