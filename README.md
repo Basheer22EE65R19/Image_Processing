@@ -1,6 +1,6 @@
 # Image Processing Techniques Showcase
 
-This repository contains code implementations and reports showcasing various image processing techniques, including Otsu's Segmentation, Image Transformations, Histogram Equalization, and Contrast Limited Adaptive Histogram Equalization (CLAHE) with Bilinear Interpolation.
+This repository contains code implementations and reports showcasing various image processing techniques, including Otsu's Segmentation, Image Transformations, Histogram Equalization, and Contrast Limited Adaptive Histogram Equalization (CLAHE) etc.,
 
 ## Contents
 
