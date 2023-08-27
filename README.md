@@ -10,7 +10,9 @@ This repository contains code implementations and reports showcasing various ima
 
 - Histogram Equalization: Explore the code and a report illustrating histogram equalization, a technique that enhances image contrast by redistributing intensity values in the histogram.
 
-- CLAHE with Bilinear Interpolation: This section contains the code and a report showcasing Contrast Limited Adaptive Histogram Equalization (CLAHE) applied to an image using bilinear interpolation for smoother results.
+- CLAHE with Bilinear Interpolation: It contains the code and a report showcasing Contrast Limited Adaptive Histogram Equalization (CLAHE) applied to an image using bilinear interpolation for smoother results.
+  
+- Segmentation using KMeans Clustering: It contains the code and report of Segmentation using
 
 
 
