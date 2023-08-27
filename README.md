@@ -4,15 +4,21 @@ This repository contains code implementations and reports showcasing various ima
 
 ## Contents
 
-- Otsu's Segmentation: This directory contains the code and a report explaining the Otsu's Segmentation technique, which is used for automatic thresholding in image segmentation.
+- Otsu's Segmentation
 
-- Image Transformations: Here, you'll find the code and a report demonstrating different image transformations such as translation, rotation, scaling, and shearing. These transformations alter the spatial arrangement of pixels in an image.
+- Image Transformations
 
-- Histogram Equalization: Explore the code and a report illustrating histogram equalization, a technique that enhances image contrast by redistributing intensity values in the histogram.
+- Histogram Equalization
 
-- CLAHE with Bilinear Interpolation: It contains the code and a report showcasing Contrast Limited Adaptive Histogram Equalization (CLAHE) applied to an image using bilinear interpolation for smoother results.
+- CLAHE
   
-- Segmentation using KMeans Clustering: It contains the code and report of Segmentation using
+- Segmentation using KMeans Clustering
+  
+- Sobel Edge Detection
+
+- Bayering and Debayering of an image
+
+- Bilinear Interpolation
 
 
 
