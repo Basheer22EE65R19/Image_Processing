@@ -24,6 +24,8 @@ This repository contains code implementations and reports showcasing various ima
 
 - Automatic White Balancing
 
+- Grayscale Intensity Transformations
+
 
 
 ## Contributing
