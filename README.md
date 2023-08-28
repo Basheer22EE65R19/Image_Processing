@@ -20,6 +20,8 @@ This repository contains code implementations and reports showcasing various ima
 
 - Bilinear Interpolation
 
+- JPEG Compression
+
 
 
 ## Contributing
