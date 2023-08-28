@@ -22,6 +22,8 @@ This repository contains code implementations and reports showcasing various ima
 
 - JPEG Compression
 
+- Automatic White Balancing
+
 
 
 ## Contributing
